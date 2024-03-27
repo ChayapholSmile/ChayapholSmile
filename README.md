@@ -141,4 +141,4 @@
 ---
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ___
-Ask me:<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfjuW7sSGd-q_kWezDqbfiYbs9ozpDtqZi6fecd-hV5Dp_IrA/viewform?embedded=true" width="640" height="824" frameborder="0" marginheight="0" marginwidth="0">กำลังโหลด…</iframe>
+* Ask me:https://docs.google.com/forms/d/e/1FAIpQLSfjuW7sSGd-q_kWezDqbfiYbs9ozpDtqZi6fecd-hV5Dp_IrA/viewform?embedded=true
